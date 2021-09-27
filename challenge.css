@@ -15,8 +15,8 @@ height: 100vh;
 }
 
 .container{
-	width:80%;
-	margin:10% auto; 
+	width:75%;
+	margin:15% auto; 
 }
 
 
@@ -88,21 +88,22 @@ section.image::after {
 h1{
 color:hsl(0, 0%, 100%);
 font-family: 'Inter', sans-serif;
-font-size: 1.9rem;
-width: 77%;
+font-size: 2rem;
+
 }
 
 
 p{
 font-family: 'Lexend Deca', sans-serif;
     color:hsla(0, 0%, 100%, 0.75);
-    font-size: 15px;
-        width: 90%;
+    font-size: 1rem;
+        line-height: 1.7rem;
 }
 
 
 h3{
 margin: 19px 0 0 0;
+font-size: 1.5rem;
 }
 
 div.details-2 p{
